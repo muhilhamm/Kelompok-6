@@ -1,0 +1,186 @@
+body html {
+    margin: 0;
+    padding: 0;
+}
+
+.backgroundimg {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(backg.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+
+}
+
+.daftar-login-box {
+    width: 280px;
+    position: absolute;
+    top: 52%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+.daftar-login-box h1 {
+    float: left;
+    font-size: 40px;
+    border-bottom: 6px solid #e67e22;
+    margin-bottom: 40px;
+    margin-top: -40px;
+    padding: 13px 0;
+}
+
+.login-box {
+    width: 280px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+.login-box h1 {
+    float: left;
+    font-size: 40px;
+    border-bottom: 6px solid #e67e22;
+    margin-bottom: 40px;
+    margin-top: -40px;
+    padding: 13px 0;
+}
+
+.textbox {
+    width: 100%;
+    overflow: hidden;
+    font-size: 20px;
+    padding: 8px 0;
+    margin: 8px 0;
+    border-bottom: 1px solid #e67e22;
+}
+
+.textbox i {
+    width: 26px;
+    float: left;
+    text-align: center;
+
+}
+
+.textbox span {
+    border: none;
+    outline: none;
+    background: none;
+    color: white;
+    font-size: 18px;
+    width: 80%;
+    float: left;
+    margin: 0 10px;
+}
+
+.textbox input {
+    border: none;
+    outline: none;
+    background: none;
+    color: white;
+    font-size: 18px;
+    width: 80%;
+    float: left;
+    margin: 0 10px;
+}
+
+.textbox textarea {
+    border: none;
+    outline: none;
+    background: none;
+    color: white;
+    font-size: 18px;
+    width: 80%;
+    float: left;
+    margin: 0 10px;
+}
+
+.btn-masuk {
+    width: 100%;
+    background: none;
+    border: 2px solid #e67e22;
+    color: white;
+    padding: 5px;
+    cursor: pointer;
+    margin: 12px 0;
+}
+
+.box {
+    width: 400px;
+    height: 400px;
+    size: auto;
+    padding: auto;
+    position: absolute;
+    top: 350px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: linear-gradient(rgba(43, 44, 43, 0.9), rgba(43, 44, 43, 0.9));
+    border-radius: 30px;
+}
+
+.header-middle {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(backg.jpg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+
+.logo img {
+    height: 40px;
+    float: left;
+    margin-top: 20px;
+}
+
+.shop-menu li {
+    margin-top: 10px;
+}
+
+.navbar-utama {
+    list-style: none;
+    float: right;
+    margin-top: 20px;
+}
+
+.navbar-utama li {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.navbar-utama li a {
+    color: white;
+    text-decoration: none;
+    font-size: 90%;
+    font-weight: bold;
+}
+
+.navbar-semua {
+    list-style: none;
+    float: right;
+    margin-top: 20px;
+}
+
+.navbar-semua li a {
+    color: #333;
+    text-decoration: none;
+    font-size: 90%;
+    font-weight: bold;
+}
+
+.navbar-semua li {
+    display: inline-block;
+    margin-left: 20px;
+
+}
+
+.navbar-semua li a:hover {
+    color: #e67e22;
+    transition: all 0.2s ease-in;
+    padding: 5px 0;
+}
+
+.navsemua {
+    min-height: 100px;
+}
