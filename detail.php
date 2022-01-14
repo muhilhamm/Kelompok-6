@@ -14,7 +14,7 @@ include 'headbawah.php';
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-12 padding-right">
-					<h2 class="title text-center">Detail Menu</h2>
+					<h2 class="title text-center">Detail menu</h2>
 					<div class="product-details"><!--product-details-->
 						<div class="col-sm-5">
 							<div class="view-product">
