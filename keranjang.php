@@ -57,7 +57,7 @@ include 'headbawah.php';
                         </tbody>
                 </table>
                 <a style="float:right; " href="checkout.php" class="btn btn-primary">Checkout</a> 
-                <a style="float:right; margin-right:50px;" href="menu.php" class="btn btn-primary">Lanjutkan Belanja</a>
+                <a style="float:right; margin-right:50px;" href="menu.php" class="btn btn-primary">Lanjutkan belanja</a>
             </div>
 		</div>
 	</section> <!--/#cart_items-->
