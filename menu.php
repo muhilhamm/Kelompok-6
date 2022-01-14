@@ -22,7 +22,7 @@ include 'headbawah.php';
 										<img src="admin/gambar_menu/<?php echo $permenu["gambar_menu"]; ?>" alt="" width="180" height="250"/>
 										<a href="detail.php?id=<?php echo $permenu["id_menu"]; ?>"><h2 style="font-size:15px"><?php echo $permenu["nama_menu"]; ?></h2></a>
 										<p>Rp. <?php echo number_format($permenu["harga_menu"]); ?></p>
-										<a href="tambah_menu.php?id=<?php echo $permenu["id_menu"]; ?>" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Tambah Menu</a>
+										<a href="tambah_menu.php?id=<?php echo $permenu["id_menu"]; ?>" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>tambah menu</a>
 									</div>
 								</div>
 							</div>
