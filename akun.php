@@ -31,7 +31,7 @@ if ($masuk == 0) {
         <span><b>Email:</b> <?php echo $array['email']; ?> </span><br>
     </div>
     <div class="akuntextbox">
-        <span><b>Kontak/No. HP:</b> <?php echo $array['kontak']; ?> </span><br>
+        <span><b>Kontak/No.HP:</b> <?php echo $array['kontak']; ?> </span><br>
     </div>
     <div class="akuntextbox">
         <span><b>Alamat:</b> <?php echo $array['alamat']; ?> </span><br>
