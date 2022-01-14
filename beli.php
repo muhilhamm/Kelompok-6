@@ -12,7 +12,7 @@ else{
     $_SESSION['keranjang'][$id_menu]=1;
 }
 
-    echo "<script>alert('Menu telah masuk ke keranjang belanja');</script>";
+    echo "<script>alert('menu telah masuk ke keranjang belanja');</script>";
     echo "<script>alert(location='keranjang.php';</script>";
 
 ?>
