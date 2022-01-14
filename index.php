@@ -128,7 +128,7 @@ include 'konfig.php';
                                 <i class="fas fa-star"></i>
                                 <i class="far fa-star"></i>
                             </div>
-                            <p>Paket makanan yang saya terima masih panas dan packingnya rapi banget. Entar kapan-kapan
+                            <p>Paket makanan yang saya terima masih panas dan packingnya rapi banget, Entar kapan-kapan
                                 saya
                                 pesan lagi ya.</p>
                         </div>
