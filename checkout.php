@@ -89,7 +89,7 @@ if(empty($_SESSION["keranjang"]) OR !isset($_SESSION["keranjang"]))  {
                         </div>
                     </div>
                     <div class="form-group">
-                        <label>Alamat Lengkap Pengiriman</label>
+                        <label>Alamat lengkap pengiriman</label>
                         <textarea name="alamat_pengiriman" placeholder="Masukkan alamat lengkap pengiriman." class="form-control"></textarea>
                     </div>
                     <button style="float:right; " class="btn btn-primary" name="beli">Checkout</button> 
