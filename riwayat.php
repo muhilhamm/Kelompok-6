@@ -18,7 +18,7 @@ if(!isset($_SESSION["user"])) {
     <table class="table table-bordered">
         <thead>
             <tr>
-                <th>No.</th>
+                <th>No</th>
                 <th>Tanggal</th>
                 <th>Total</th>
                 <th>Opsi</th>
