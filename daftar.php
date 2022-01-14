@@ -13,7 +13,7 @@ if (isset($_POST["daftar"])) {
         <?php
     } else {
         $sql = mysqli_query($koneksi,"INSERT INTO `user` (`nama`, `email`, `pass`, `kontak`) VALUES ('$nama', '$email', '$pass', '$kontak')");
-        echo "<script>alert('Akun berhasil didaftar');</script>";
+        echo "<script>alert('Akun berhasil di daftar');</script>";
         echo "<script>location='masuk.php';</script>";
     }
 }
